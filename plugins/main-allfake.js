@@ -32,17 +32,17 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/573012482597'
+global.creador = 'Wa.me/528241050228'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51939041500'
-global.namechannel = '『✯ Team Channel Ai Yaemori ✯』'
+global.asistencia = 'Wa.me/528241050228'
+global.namechannel = '『✯ Team Channel Alcabot ✯』'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Ai Yaemori
+//Emojis determinado 
 global.emoji = '🚩'
 global.emoji2 = '🍟'
 global.emoji3 = '✨️'
@@ -56,15 +56,13 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗮 ...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'  
-var git = 'https://github.com/OfcDiego' 
-var youtube = 'https://www.youtube.com/@OfcDiego' 
-var github = 'https://github.com/OfcDiego/YaemoriBot-MD' 
-var facebook = 'https://www.facebook.com/diegosaroficial?mibextid=ZbWKwL' 
-let tiktok = 'https://tiktok.com/@theluffybot'
-let correo = 'theyaemoribot@gmail.com'
+var canal = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'  
+var git = 'https://github.com/Alcaventas' 
+var ig = 'https://www.instagram.com/@Alcashop.ff' 
+var github = 'https://github.com/Alcaventas/Alcaverga' 
+var facebook = 'https://www.facebook.com/Alcashop' 
 
-global.redes = [canal, git, youtube, github, facebook, tiktok, correo].getRandom()
+global.redes = [cañal,ig,].getRandom()
 
 //Imagen
 let category = "imagen"

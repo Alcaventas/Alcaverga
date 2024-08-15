@@ -10,12 +10,7 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['573106909511', 'Yaemori 🍧', true],
-   ['573012482597', 'Dev Diego 🧊', true],
-   ['50558124470'],
-   ['573218138672'],
-   ['5351524614'],
-   ['573027866596']
+   ['528241050228', 'Alcashop.ff 🍧', true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -25,15 +20,15 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
-global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
-global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 🌻'
-global.titulowm = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍓'
-global.titulowm2 = '𝖠𝗂 𝖸𝖺𝖾𝗆𝗈𝗋𝗂 - 𝖬𝖣 ✨'
-global.botname = 'Yᴀᴇᴍᴏʀɪ Bᴏᴛ - MD 🍟'
+global.packname = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
+global.author = 'Alcashop.ff 👑'
+global.wm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
+global.titulowm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
+global.titulowm2 = 'Alcabot(V24) ✨'
+global.botname = 'Alcabot(V24) 🍟'
 global.team = '⚡︎ ᥣіgһ𝗍ᥒіᥒց - 𝗍ᥱᥲm ⚡︎'
-global.dev = '🚩 Powered By あ S_ᴅɪᴇɢᴏ あ'
-global.textbot = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
+global.dev = '🚩 Powered By @Alcashop.ff'
+global.textbot = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑) 🚩'
 global.vs = '2.0.4'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -48,10 +43,10 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/Em1J2VaglHc1fe26YtBDCS'
-global.grupo2 = 'https://chat.whatsapp.com/BGaHCIlJzYf7P58gsG2xL6'
-global.canal = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
-global.channel = 'https://whatsapp.com/channel/0029VaQD7LAJP216tu9liI2A'
+global.grupo = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
+global.grupo2 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
+global.canal = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
+global.channel = 'https://whatsapp.com/channel/KTZq5URCoUy9UffgkBYpJp'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

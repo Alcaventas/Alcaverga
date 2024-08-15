@@ -1,4 +1,3 @@
-let linkRegex = /(https?:\/\/(?:www\.)?(?:t\.me|telegram\.me|whatsapp\.com)\/\S+)|(https?:\/\/chat\.whatsapp\.com\/\S+)|(https?:\/\/whatsapp\.com\/channel\/\S+)/i
 
 export async function before(m, { isAdmin, isBotAdmin }) {
 if (m.isBaileys && m.fromMe)

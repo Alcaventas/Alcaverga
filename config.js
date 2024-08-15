@@ -26,7 +26,7 @@ global.wm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
 global.titulowm = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑)'
 global.titulowm2 = 'Alcabot(V24) ✨'
 global.botname = 'Alcabot(V24) 🍟'
-global.team = '⚡︎ ᥣіgһ𝗍ᥒіᥒց - 𝗍ᥱᥲm ⚡︎'
+global.team = 'By @Alcashop.ff'
 global.dev = '🚩 Powered By @Alcashop.ff'
 global.textbot = '𝗔𝗟𝗖𝗔𝗕𝗢𝗧 (👑) 🚩'
 global.vs = '2.0.4'
@@ -46,11 +46,11 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 global.grupo = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
 global.grupo2 = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
 global.canal = 'https://chat.whatsapp.com/KTZq5URCoUy9UffgkBYpJp'
-global.channel = 'https://whatsapp.com/channel/KTZq5URCoUy9UffgkBYpJp'
+global.channel = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ 𝗦𝘂𝗽𝗲𝗿 𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 🍟', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ By @Alcashop.ff🍟', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

@@ -332,7 +332,7 @@ global.db.data.users[m.sender].spam = new Date * 1
                     fail('private', m, this)
                     continue
 }
-              if (plugin.register == true && _user.registered == false) { 
+              if (plugin.register == false && _user.registered == false) { 
               fail('unreg', m, this)
             continue
            }

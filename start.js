@@ -423,3 +423,10 @@ setInterval(async () => {
   await purgeOldFiles()
 }, 1000 * 60 * 60);
 _quickTest().catch(console.error)
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+unwatchFile(file)
+console.log(chalk.bold.greenBright("SE ACTUALIZÓ 'main.js' CON ÉXITO".trim()))
+import(`${file}?update=${Date.now()}`)
+})
